@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @rio3dstudios
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C#, Java, Java script, PHP, Python
+- 🌱 I’m currently learning Unreal Engine 5
+- 💞️ I’m looking to collaborate on Unity and Ureal 5 projects
+- 📫 How to reach me rio3dstudios@gmail.com
 
-<!---
-rio3dstudios/rio3dstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
